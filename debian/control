@@ -1,7 +1,7 @@
 Source: google-fonts
 Priority: optional
 Section: fonts
-Build-Depends: cdbs,
+Build-Depends: debhelper
 Maintainer: Klee Dienes <klee.dienes@hadronindustries.com>
 Standards-Version: 3.9.6
 
